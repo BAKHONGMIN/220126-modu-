@@ -1,0 +1,44 @@
+#hd .container{
+ display: flex !important;
+ flex-direction: row;
+ justify-content: space-between !important;
+} 
+h1{
+    display: flex;
+    overflow: hidden;
+    /* height: 50px; */
+    float: right;
+    background-color: white;
+
+}
+h1{
+    background-color: rgba(246, 197, 197, 0.465);
+
+}
+
+
+.ab1{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    display: flex;
+    width: 200px;
+}
+.d1:hover{
+    height: 300px;
+    width: 200px;
+}
+.d2 {
+    font-size: 15px;
+    display: block;
+    position: absolute;
+    margin-top: 50px;
+    text-align: center;
+    align-items: inherit;
+}
+.d2 li{
+    text-align: left;
+    align-items: inherit;
+    
+}
